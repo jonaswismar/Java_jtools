@@ -10,4 +10,5 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>de.jonaswismar.tools.Jtools</exec.mainClass>
     </properties>
+    <name>jtools</name>
 </project>
